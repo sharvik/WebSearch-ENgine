@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="fusioncharts">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.1/javascript/extLibs/http_cdn.fusioncharts.com_fusioncharts_latest_fusioncharts.js" />
+  </library>
+  <library name="fusioncharts.maps">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.1/javascript/extLibs/http_cdn.fusioncharts.com_fusioncharts_latest_fusioncharts.maps.js" />
+  </library>
+  <library name="fusioncharts.theme.fusion">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.1/javascript/extLibs/http_cdn.fusioncharts.com_fusioncharts_latest_themes_fusioncharts.theme.fusion.js" />
+  </library>
+  <library name="fusioncharts.world">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.1/javascript/extLibs/http_cdn.fusioncharts.com_fusioncharts_latest_maps_fusioncharts.world.js" />
+  </library>
+  <library name="jquery">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.1/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.4.1_jquery.js" />
+  </library>
+</eclipse-userlibraries>
+
